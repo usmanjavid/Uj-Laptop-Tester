@@ -14,7 +14,7 @@ Open the **Releases** section of this repository and choose the asset for your c
 
 | Platform | Release asset | Requirements |
 |---|---|---|
-| Windows | `Uj-Laptop-Tester-3.0-Windows-x64.exe` | Windows 10 or 11, x64 |
+| Windows | `Uj-Laptop-Tester-3.0-Windows-x64.zip` | Windows 10 or 11, x64 |
 | macOS — Intel | `Uj-Laptop-Tester-3.0-macOS-Intel.zip` | macOS 12 Monterey or newer, Intel processor |
 | macOS — Apple Silicon | `Uj-Laptop-Tester-3.0-macOS-Apple-Silicon.zip` | macOS 12 Monterey or newer, Apple M-series processor |
 
